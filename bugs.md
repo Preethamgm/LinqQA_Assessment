@@ -126,7 +126,7 @@ Rate-limiting response (e.g., 429 Too Many Requests)
 All requests return `200 OK`. No throttling applied.
 
 **Screenshot**:  
-![All requests passed](file-Cn2oYYQ3L1iKkpECpGgi5j)
+![All requests passed](screenshots/Screenshot2.png)
 
 ---
 

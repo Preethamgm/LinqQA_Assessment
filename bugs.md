@@ -108,7 +108,8 @@ Exposed backend returns: "Page you were looking for doesn’t exist"
 Still confirms that endpoint is public-facing.
 
 **Screenshot**:  
-![Unauthenticated API Access](file-PVCapy6hv98CFEKv6JAbXo)
+![Unauthenticated API Access](screenshots/Screenshot5.png)
+_also refer to previous ScreenShot_
 
 ---
 

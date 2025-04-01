@@ -89,7 +89,7 @@ All submissions are accepted without challenge.
 
 **Screenshot**:  
 Console logs showing multiple successful submissions:
-![No CAPTCHA or Rate-Limiting](file-PVCapy6hv98CFEKv6JAbXo)
+![No CAPTCHA or Rate-Limiting](screenshots/Screenshot2.png)
 
 ---
 

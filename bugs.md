@@ -17,7 +17,8 @@ Should either restrict input length or display a validation message for overly l
 Form accepts the input without any warning or validation.
 
 **Screenshot**:  
-_Not attached, but reproducible consistently._
+![](screenshots/Screenshot3.png)
+![](screenshots/Screenshot4.png)
 
 ---
 

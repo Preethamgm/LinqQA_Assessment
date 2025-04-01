@@ -129,4 +129,31 @@ All requests return `200 OK`. No throttling applied.
 
 ---
 
+## 🐛 Bug #8: Form Accepts Clearly Fake Email Addresses (e.g. testcase@fake.com)
+
+**Severity**: Medium  
+**Steps to Reproduce**:
+1. Go to `https://linqapp.com/daniela`
+2. Click “Exchange Contact”
+3. Enter name: `Test User`
+4. Enter email: `testcase@fake.com`
+5. Click “Continue”
+
+**Expected Behavior**:  
+- The system should either block known fake/disposable emails or flag them as suspicious.
+
+**Actual Behavior**:  
+- Submission goes through and confirmation is shown.
+- Email is logged like a real contact.
+
+**Impact**:  
+- Poor data quality in contact database  
+- Leaves system open to abuse via fake signups
+
+**Screenshot**:  
+![](screenshots/Screenshot3.png)
+
+
+---
+
 📌 _All bugs are verified using browser DevTools, manual form testing, and Python automation scripts._

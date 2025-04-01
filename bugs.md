@@ -70,7 +70,7 @@ Should request email verification or basic CAPTCHA before allowing download.
 .vcf file is downloaded immediately without any validation.
 
 **Screenshot**:  
-![No Verification Before Download](file-U6Pxpw1ScuKs38JwgFxzhS)
+_Not attached, but reproducible consistently._
 
 ---
 

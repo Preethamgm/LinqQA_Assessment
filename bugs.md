@@ -51,7 +51,7 @@ Contact is saved repeatedly without restriction or notification.
 
 **Screenshot**:  
 Request log shows identical contact being added multiple times:
-![Duplicate Email Saved Multiple Times](file-B3TmD66yPf12gL5DQMdcz6)
+![Duplicate Email Saved Multiple Times](screenshots/Screenshot 2025-04-01 155018.png)
 
 ---
 

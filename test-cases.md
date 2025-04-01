@@ -20,4 +20,4 @@
 
 ---
 
-📌 _Note: Actual results and screenshots were collected during manual testing and can be provided separately._
+📌 _Note: Actual results and screenshots were collected during manual testing and will be provided separately._
